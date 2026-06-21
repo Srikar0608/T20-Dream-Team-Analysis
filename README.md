@@ -118,15 +118,11 @@ T20-Dream-Team-Analysis
 │
 ├── scripts
 │   └── dream_team_analysis.py
-│
-├── powerbi
-│   └── T20_Dream_Team.pbix
-│
+|
 ├── screenshots
 │   └── dashboard.png
 │
 ├── README.md
-└── requirements.txt
 ```
 
 ---
